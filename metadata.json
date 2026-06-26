@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Excel Backend",
+  "description": "An e-commerce REST API backend built with Express and using an Excel spreadsheet as the database, including an interactive visual playground to test the endpoints and manage products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
